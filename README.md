@@ -129,7 +129,7 @@ Qualifier
    - GET 방식, POST 방식 등 전송 방식에 대한 처리를 어노테이션으로 처리 가능
    - 상속/인터페이스 방식 대신 어노테이션으로만 설정 가능
 
-
+![Spring_MVC](https://user-images.githubusercontent.com/109490411/210167476-cf2c3a97-930a-4425-b9d1-aaddaa28b67b.png)
 
 - Dispatcher Servlet에서 Dispatch는 사전적 의미로 '보내다' 라는 의미를 사지고 있습니다. 
 클라이언트의 모든 요청을 한 곳으로 받아서 처리하는 역할을 수행합니다. 
